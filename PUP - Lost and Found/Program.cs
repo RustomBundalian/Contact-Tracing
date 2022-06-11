@@ -16,7 +16,7 @@ namespace PUP___Lost_and_Found
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new LF());
         }
     }
 }
