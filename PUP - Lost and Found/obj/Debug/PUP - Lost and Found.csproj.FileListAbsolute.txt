@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\bin\Debug\PUP - Lost and Found.exe.config
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\bin\Debug\PUP - Lost and Found.exe
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\bin\Debug\PUP - Lost and Found.pdb
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP___Lost_and_Found.Properties.Resources.resources
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP___Lost_and_Found.LF.resources
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.exe
+C:\Users\Tom\source\repos\PUP - Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.pdb
