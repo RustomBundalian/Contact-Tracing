@@ -23,12 +23,18 @@ namespace PUP___Lost_and_Found
 
         }
 
+        private void ResetForm()
+        {
+            name.Text = contact.Text = item.Text = place.Text = reward.Text = "";
+        }
+
         private void btn1_Click(object sender, EventArgs e)
         {
-            bool  result = new ItemProcess().SubmitItem(name.Text, contact.Text, this.item.Text, dpDateLost.Value, place.Text, reward.Text);
+            bool  result = new ItemProcess().SubmitItem(name.Text, contact.Text, item.Text, dpDateLost.Value, place.Text, reward.Text);
             if (result)
             {
                 MessageBox.Show("Your info has been submitted");
+                ResetForm();
             }
             else
             {
