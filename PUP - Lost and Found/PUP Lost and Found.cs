@@ -52,6 +52,16 @@ namespace PUP___Lost_and_Found
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
+            List<ItemLostNFound> lst = new ItemProcess().SearchItem(dpSearch.Value);
+            if (lst != null)
+            {
+                gridSearch.DataSource = lst;
+                gridSearch.Refresh();
+            }
+        }
+
+        private void gridSearch_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
         }
     }

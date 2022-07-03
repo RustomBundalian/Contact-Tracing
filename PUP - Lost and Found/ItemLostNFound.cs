@@ -84,10 +84,20 @@ namespace PUP___Lost_and_Found
                     fs.Close();
                 }
             }
-
-            return result;   
-         
+            return result;       
         }
+
+        public List<ItemLostNFound> SearchItem(DateTime dateLost)
+        {
+            List<ItemLostNFound> lst = getListItem();
+            if (lst == null)
+            {
+                return null;
+            }
+
+            return lst.FindAll(delegate (ItemLostNFound item) { return item.DateLost.Date == dateLost.Date; });
+        }
+
         public bool SubmitItem(string fullname, string contact, string itemlost, DateTime dateLost, string placelost, string reward)
         {
             bool result = false;

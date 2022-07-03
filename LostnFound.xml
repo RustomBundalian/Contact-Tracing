@@ -120,4 +120,12 @@
     <PlaceLost>sadad</PlaceLost>
     <Reward>asd</Reward>
   </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>pls</Fullname>
+    <Contact>pls</Contact>
+    <ItemLost>pls</ItemLost>
+    <DateLost>2022-07-02T08:37:38</DateLost>
+    <PlaceLost>pls</PlaceLost>
+    <Reward>pls</Reward>
+  </ItemLostNFound>
 </ArrayOfItemLostNFound>
