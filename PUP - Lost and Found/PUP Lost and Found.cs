@@ -30,15 +30,23 @@ namespace PUP___Lost_and_Found
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            bool  result = new ItemProcess().SubmitItem(name.Text, contact.Text, item.Text, dpDateLost.Value, place.Text, reward.Text);
-            if (result)
+            bool result = new ItemProcess().SubmitItem(name.Text, contact.Text, item.Text, dpDateLost.Value, place.Text, reward.Text);
+            if ((name.Text == contact.Text) && (contact.Text == item.Text) && (item.Text == place.Text) && (place.Text == reward.Text) && (reward.Text == ""))
             {
-                MessageBox.Show("Your info has been submitted");
+                MessageBox.Show("Fill up the blanks before submitting!");
                 ResetForm();
             }
             else
             {
-                MessageBox.Show("Something is wrong! Please try again later");
+                if (result)
+                {
+                    MessageBox.Show("Your info has been submitted");
+                    ResetForm();
+                }
+                else
+                {
+                    MessageBox.Show("Something is wrong! Please try again later");
+                }
             }
         }
 
