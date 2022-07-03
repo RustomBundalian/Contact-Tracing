@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfItemLostNFound xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemLostNFound>
+    <Fullname>adasd</Fullname>
+    <Contact>asdasd</Contact>
+    <ItemLost>asdasda</ItemLost>
+    <DateLost>2022-07-03T05:41:41.1952148-07:00</DateLost>
+    <PlaceLost>sadasd</PlaceLost>
+    <Reward>asdasdada</Reward>
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>ytset</Fullname>
+    <Contact>tset</Contact>
+    <ItemLost>tset</ItemLost>
+    <DateLost>2022-07-03T05:43:50.6016052-07:00</DateLost>
+    <PlaceLost>tset</PlaceLost>
+    <Reward>set</Reward>
+  </ItemLostNFound>
+</ArrayOfItemLostNFound>

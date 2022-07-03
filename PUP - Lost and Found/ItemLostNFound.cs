@@ -27,7 +27,7 @@ namespace PUP___Lost_and_Found
 
     public class ItemProcess
     {
-        const string filename = @"C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found";
+        const string filename = @"C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\LostnFound.xml";
         public List<ItemLostNFound> getListItem()
         {
             List<ItemLostNFound> lst = null;
@@ -42,7 +42,7 @@ namespace PUP___Lost_and_Found
             }
             catch(Exception)
             {
-              
+               
             }
             finally
             {
@@ -75,7 +75,7 @@ namespace PUP___Lost_and_Found
             } 
             catch(Exception)
             {
-            
+         
             }
             finally
             {
@@ -88,7 +88,8 @@ namespace PUP___Lost_and_Found
             return result;   
          
         }
-        public bool SubmitItems(string fullname, string contact, string itemlost, DateTime dateLost, string placelost, string reward)
+
+        public bool SubmitItem(string fullname, string contact, string itemlost, DateTime dateLost, string placelost, string reward)
         {
             bool result = false;
             try
@@ -105,7 +106,7 @@ namespace PUP___Lost_and_Found
             }
             catch(Exception)
             {
-            
+             
             }
             return result;
         }

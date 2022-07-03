@@ -46,10 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="ItemLostNFound.cs" />
-=======
->>>>>>> 2d8dc9055fd20a68de59470cb6e5a2b18c8eef7b
     <Compile Include="PUP Lost and Found.cs">
       <SubType>Form</SubType>
     </Compile>
