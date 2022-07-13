@@ -45,6 +45,7 @@
             this.dpSearch = new System.Windows.Forms.DateTimePicker();
             this.btnSearch = new System.Windows.Forms.Button();
             this.gridSearch = new System.Windows.Forms.DataGridView();
+            this.btnScan = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.gridSearch)).BeginInit();
             this.SuspendLayout();
             // 
@@ -151,7 +152,7 @@
             // 
             // btn1
             // 
-            this.btn1.Location = new System.Drawing.Point(138, 269);
+            this.btn1.Location = new System.Drawing.Point(136, 268);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(106, 27);
             this.btn1.TabIndex = 13;
@@ -176,7 +177,7 @@
             // 
             // btnSearch
             // 
-            this.btnSearch.Location = new System.Drawing.Point(403, 268);
+            this.btnSearch.Location = new System.Drawing.Point(470, 270);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(114, 27);
             this.btnSearch.TabIndex = 16;
@@ -197,6 +198,16 @@
             this.gridSearch.TabIndex = 17;
             this.gridSearch.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridSearch_CellContentClick);
             // 
+            // btnScan
+            // 
+            this.btnScan.Location = new System.Drawing.Point(332, 270);
+            this.btnScan.Name = "btnScan";
+            this.btnScan.Size = new System.Drawing.Size(114, 27);
+            this.btnScan.TabIndex = 18;
+            this.btnScan.Text = "Scan QR";
+            this.btnScan.UseVisualStyleBackColor = true;
+            this.btnScan.Click += new System.EventHandler(this.button1_Click);
+            // 
             // LF
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -205,6 +216,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(616, 301);
+            this.Controls.Add(this.btnScan);
             this.Controls.Add(this.gridSearch);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.dpSearch);
@@ -251,6 +263,7 @@
         private System.Windows.Forms.DateTimePicker dpSearch;
         private System.Windows.Forms.Button btnSearch;
         private System.Windows.Forms.DataGridView gridSearch;
+        private System.Windows.Forms.Button btnScan;
     }
 }
 

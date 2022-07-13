@@ -152,4 +152,60 @@
     <PlaceLost>s</PlaceLost>
     <Reward>s</Reward>
   </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>rust</Fullname>
+    <Contact>0918</Contact>
+    <ItemLost />
+    <DateLost>2022-07-12T22:44:05.7723429-07:00</DateLost>
+    <PlaceLost />
+    <Reward />
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>rt</Fullname>
+    <Contact>21</Contact>
+    <ItemLost />
+    <DateLost>2022-07-12T23:23:06.0728695-07:00</DateLost>
+    <PlaceLost />
+    <Reward />
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname />
+    <Contact />
+    <ItemLost />
+    <DateLost>2022-07-12T23:23:06.0728695-07:00</DateLost>
+    <PlaceLost />
+    <Reward />
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>asdasd</Fullname>
+    <Contact />
+    <ItemLost />
+    <DateLost>2022-07-12T23:23:06.0728695-07:00</DateLost>
+    <PlaceLost />
+    <Reward />
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>asdasda</Fullname>
+    <Contact>21</Contact>
+    <ItemLost />
+    <DateLost>2022-07-12T23:23:06.0728695-07:00</DateLost>
+    <PlaceLost />
+    <Reward />
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>tah</Fullname>
+    <Contact>23</Contact>
+    <ItemLost />
+    <DateLost>2022-07-12T23:34:05.7858228-07:00</DateLost>
+    <PlaceLost />
+    <Reward />
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>rust</Fullname>
+    <Contact>09283617321</Contact>
+    <ItemLost>Money</ItemLost>
+    <DateLost>2022-07-12T23:44:23.9803982-07:00</DateLost>
+    <PlaceLost>Canteen</PlaceLost>
+    <Reward>50</Reward>
+  </ItemLostNFound>
 </ArrayOfItemLostNFound>

@@ -30,3 +30,17 @@ C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and F
 C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.csproj.CoreCompileInputs.cache
 C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.exe
 C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.pdb
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\AForge.dll
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\AForge.Video.dll
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\QRCoder.dll
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\zxing.dll
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\zxing.presentation.dll
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\AForge.xml
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\AForge.Video.xml
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\zxing.xml
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\bin\Debug\zxing.presentation.xml
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\obj\Debug\PUP___Lost_and_Found.QRCodeGenerator.resources
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\obj\Debug\PUP___Lost_and_Found.QRCodeScan.resources
+C:\Users\Tom\source\repos\PUP Lost and Found\PUP Lost and Found\PUP - Lost and Found\obj\Debug\PUP - Lost and Found.csproj.CopyComplete

@@ -41,6 +41,10 @@ namespace PUP___Lost_and_Found
                 if (result)
                 {
                     MessageBox.Show("Your info has been submitted");
+
+                    QRCodeGenerator frm = new QRCodeGenerator(name.Text, contact.Text) ;
+                    frm.ShowDialog();
+
                     ResetForm();
                 }
                 else
@@ -63,6 +67,15 @@ namespace PUP___Lost_and_Found
         private void gridSearch_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            QRCodeScan QRCodeScanner = new QRCodeScan();
+            QRCodeScanner.ShowDialog();
+            string s = QRCodeScanner.ScannedCode;
+            name.Text = s.Split(':')[0];
+            contact.Text = s.Split(':')[1];
         }
     }
 }
