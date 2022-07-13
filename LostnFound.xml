@@ -128,4 +128,28 @@
     <PlaceLost>pls</PlaceLost>
     <Reward>pls</Reward>
   </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>Rustom Bundalian</Fullname>
+    <Contact>0928668941</Contact>
+    <ItemLost>Book</ItemLost>
+    <DateLost>2022-07-01T08:47:36</DateLost>
+    <PlaceLost>Canteen</PlaceLost>
+    <Reward>50</Reward>
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname />
+    <Contact />
+    <ItemLost />
+    <DateLost>2022-07-01T08:47:36</DateLost>
+    <PlaceLost />
+    <Reward />
+  </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>s</Fullname>
+    <Contact>s</Contact>
+    <ItemLost>s</ItemLost>
+    <DateLost>2022-07-12T01:51:02.5408361-07:00</DateLost>
+    <PlaceLost>s</PlaceLost>
+    <Reward>s</Reward>
+  </ItemLostNFound>
 </ArrayOfItemLostNFound>

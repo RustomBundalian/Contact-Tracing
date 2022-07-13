@@ -82,7 +82,7 @@
             this.lb5.AutoSize = true;
             this.lb5.BackColor = System.Drawing.SystemColors.Window;
             this.lb5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lb5.Location = new System.Drawing.Point(18, 184);
+            this.lb5.Location = new System.Drawing.Point(18, 182);
             this.lb5.Name = "lb5";
             this.lb5.Size = new System.Drawing.Size(89, 13);
             this.lb5.TabIndex = 4;
@@ -126,7 +126,7 @@
             // 
             // place
             // 
-            this.place.Location = new System.Drawing.Point(92, 202);
+            this.place.Location = new System.Drawing.Point(92, 200);
             this.place.Name = "place";
             this.place.Size = new System.Drawing.Size(200, 20);
             this.place.TabIndex = 9;
@@ -136,7 +136,7 @@
             this.lb6.AutoSize = true;
             this.lb6.BackColor = System.Drawing.SystemColors.Window;
             this.lb6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lb6.Location = new System.Drawing.Point(18, 230);
+            this.lb6.Location = new System.Drawing.Point(18, 225);
             this.lb6.Name = "lb6";
             this.lb6.Size = new System.Drawing.Size(95, 13);
             this.lb6.TabIndex = 11;
@@ -144,14 +144,14 @@
             // 
             // reward
             // 
-            this.reward.Location = new System.Drawing.Point(92, 248);
+            this.reward.Location = new System.Drawing.Point(92, 242);
             this.reward.Name = "reward";
             this.reward.Size = new System.Drawing.Size(200, 20);
             this.reward.TabIndex = 12;
             // 
             // btn1
             // 
-            this.btn1.Location = new System.Drawing.Point(138, 278);
+            this.btn1.Location = new System.Drawing.Point(138, 269);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(106, 27);
             this.btn1.TabIndex = 13;
@@ -176,7 +176,7 @@
             // 
             // btnSearch
             // 
-            this.btnSearch.Location = new System.Drawing.Point(402, 278);
+            this.btnSearch.Location = new System.Drawing.Point(403, 268);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(114, 27);
             this.btnSearch.TabIndex = 16;
@@ -193,7 +193,7 @@
             this.gridSearch.Location = new System.Drawing.Point(332, 69);
             this.gridSearch.Name = "gridSearch";
             this.gridSearch.ReadOnly = true;
-            this.gridSearch.Size = new System.Drawing.Size(252, 199);
+            this.gridSearch.Size = new System.Drawing.Size(252, 193);
             this.gridSearch.TabIndex = 17;
             this.gridSearch.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridSearch_CellContentClick);
             // 
@@ -203,8 +203,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(932, 314);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.ClientSize = new System.Drawing.Size(616, 301);
             this.Controls.Add(this.gridSearch);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.dpSearch);
