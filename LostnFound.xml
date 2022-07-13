@@ -208,4 +208,12 @@
     <PlaceLost>Canteen</PlaceLost>
     <Reward>50</Reward>
   </ItemLostNFound>
+  <ItemLostNFound>
+    <Fullname>Rustom Bundalian</Fullname>
+    <Contact>09286664180</Contact>
+    <ItemLost>One piece chicken</ItemLost>
+    <DateLost>2022-07-13T00:47:23.2695608-07:00</DateLost>
+    <PlaceLost>Road</PlaceLost>
+    <Reward>Wala</Reward>
+  </ItemLostNFound>
 </ArrayOfItemLostNFound>

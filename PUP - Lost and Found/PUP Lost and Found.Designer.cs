@@ -156,7 +156,7 @@
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(106, 27);
             this.btn1.TabIndex = 13;
-            this.btn1.Text = "Submit";
+            this.btn1.Text = "Submit Info";
             this.btn1.UseVisualStyleBackColor = true;
             this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
@@ -181,7 +181,7 @@
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(114, 27);
             this.btnSearch.TabIndex = 16;
-            this.btnSearch.Text = "Search";
+            this.btnSearch.Text = "Search Record";
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
@@ -204,7 +204,7 @@
             this.btnScan.Name = "btnScan";
             this.btnScan.Size = new System.Drawing.Size(114, 27);
             this.btnScan.TabIndex = 18;
-            this.btnScan.Text = "Scan QR";
+            this.btnScan.Text = "Scan QR Code";
             this.btnScan.UseVisualStyleBackColor = true;
             this.btnScan.Click += new System.EventHandler(this.button1_Click);
             // 

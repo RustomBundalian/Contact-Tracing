@@ -40,7 +40,7 @@ namespace PUP___Lost_and_Found
             {
                 if (result)
                 {
-                    MessageBox.Show("Your info has been submitted");
+                    MessageBox.Show("Your info has been submitted!");
 
                     QRCodeGenerator frm = new QRCodeGenerator(name.Text, contact.Text) ;
                     frm.ShowDialog();
@@ -49,7 +49,7 @@ namespace PUP___Lost_and_Found
                 }
                 else
                 {
-                    MessageBox.Show("Something is wrong! Please try again later");
+                    MessageBox.Show("Something is wrong! Please try again later!");
                 }
             }
         }

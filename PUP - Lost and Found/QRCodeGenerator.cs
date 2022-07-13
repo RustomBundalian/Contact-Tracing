@@ -31,7 +31,7 @@ namespace PUP___Lost_and_Found
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-
+            
         }
         private void QRCodeGenerator_Load(object sender, EventArgs e)
         {
